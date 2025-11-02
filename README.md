@@ -1,6 +1,5 @@
-# bankAI - AI-Powered Culinary Assistant
+# bankAI - AI-Powered Assistant
 
-![bankAI Banner](https://via.placeholder.com/1200x400/0a0a2a/ffffff?text=bankAI+Culinary+Assistant)
 
 An intelligent application that combines multiple AI models to enhance your culinary experience. From generating recipes to identifying food items in images, bankAI is your one-stop solution for all things food.
 
@@ -76,6 +75,11 @@ Create a `.env` file in the root directory with the following variables:
 | Text Summarization | T5 Fine-tuned | [HuggingFace Hub](https://huggingface.co/whis-22/bankai-summary) |
 | Food Classification | ViT Fine-tuned | [HuggingFace Hub](https://huggingface.co/whis-22/bankai-image) |
 
+## Deployment
+
+[BankAI](https://bank-ai.streamlit.app/)
+
+
 ## 📱 Usage Examples
 
 ### Generating a Recipe
@@ -113,5 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by Your Name | 2023
+  Made by <a href="https://github.com/whis-19">Muhammad Abdullah</a> and <a href="https://github.com/hashimaliii">Muhammad Hashim Ali</a> | 2023
 </div>
